@@ -1,0 +1,65 @@
+header{
+    background: gray;
+    height:160px;
+    width:100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+/* inner header1 */
+header .inner-header1{
+    background: skyblue;
+    height: 100px;
+
+}
+
+header .inner-header1 .logo{
+    /*background: yellow;*/
+    width: 120px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+header .inner-header1 .logo img{
+    width: 120px;
+    height: 60px;
+}
+
+header .inner-header1 .title{
+    margin-top: 50px;
+    margin-left: 30px;
+    float: left;
+}
+
+
+
+/* inner-header2 */
+header .inner-header2{
+    height:60px;
+    overflow: hidden;
+}
+
+header .inner-header2 nav{
+    background: pink;
+    height: 60px;
+    width: 200px;
+    float: left;
+    text-align: center;
+    padding-top:20px;
+}
+
+/* footer */
+footer{
+    width : 100%
+}
+
+footer .inner-footer{
+    height : 60px;
+    background: gray;
+}

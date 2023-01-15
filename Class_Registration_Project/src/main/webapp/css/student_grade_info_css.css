@@ -1,0 +1,16 @@
+table{
+    /*background: yellow;*/
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+table thead th{
+    border: 1px solid #000;
+    width: 150px;
+}
+table tbody td{
+    border: 1px solid #000;
+    height: 30px;
+    width: 150px;
+}

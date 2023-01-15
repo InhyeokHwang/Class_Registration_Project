@@ -1,0 +1,70 @@
+
+/* section */
+section {
+    height: 700px;
+}
+
+section #section1{
+    /*background: yellow;*/
+    width:300px;
+    height:350px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+section #section1 #login{
+    background: pink;
+    height:230px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #000;
+}
+
+
+section #section1 #login #title{
+    text-align: center;
+    padding-top: 30px;
+}
+section #section1 #login form{
+    text-align: center;
+}
+section #section1 #login form :first-child{
+    margin-top: 30px;
+}
+section #section1 #login form input{
+    margin-top: 10px;
+}
+section #section1 #login form button{
+    width:150px;
+    height:40px;
+    margin-top: 10px;
+}
+
+section #section1 #login #getinfo{
+    font-size: 7px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+section #section1 #instruction{
+    background: pink;
+    height:40px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 15px;
+}
+
+
+
+
+
+

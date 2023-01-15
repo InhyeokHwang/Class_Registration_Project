@@ -1,0 +1,30 @@
+#section1{
+    background: skyblue;
+    height: 100px;
+    width: 1500px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 2px solid #000;
+}
+#section1 div{
+     background: wheat;
+    width:300px;
+    text-align: center;
+    float:left;
+    margin-top: 40px;
+}
+#section1 div p{
+    float:left;
+    margin-left: 20px;
+}
+#section1 div p input{
+    height:25px;
+}
+
+#section1 #searchbutton{
+    height:30px;
+    width: 60px;
+    float:left;
+    margin-top: 40px;
+    margin-left: 20px;
+}
